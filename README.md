@@ -1,7 +1,7 @@
 # MyJarvis
 My First Repository
 <br>
-Developer Name : Mohammad Kaif
+Developer Name : Mohammad Kaif Ansari
 <br>
 import kivy
 <br>
@@ -96,3 +96,4 @@ class AssistantApp(App):
 
 if __name__ == "__main__":
     AssistantApp().run()
+#the program ended
